@@ -1,1 +1,1 @@
-# awesome_drug_discovery_ml
+# Awesome Machine Learning for Drug Discovery

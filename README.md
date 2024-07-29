@@ -17,3 +17,4 @@
 * [Github - AMIDD](https://github.com/Accio/AMIDD)
 * [Github - DeepMol](https://github.com/BioSystemsUM/DeepMol)
 * [Github - MCBĐ](https://github.com/Accio/MCBDD/tree/main)
+* [Github - Computational Drug Discovery](https://github.com/mehdimerbah/CompDrugDiscovery/tree/main)

@@ -14,4 +14,5 @@
 * [ACEGEN: Reinforcement learning of generative chemical agents for drug discovery](https://arxiv.org/abs/2405.04657)
 
 ## Others
-[Github - AMIDD](https://github.com/Accio/AMIDD)
+* [Github - AMIDD](https://github.com/Accio/AMIDD)
+* [Github - DeepMol](https://github.com/BioSystemsUM/DeepMol)

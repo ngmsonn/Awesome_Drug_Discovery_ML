@@ -12,3 +12,6 @@
 ### Papers
 * [Multi-Objective Latent Space Optimization of Generative Molecular Design Models](https://arxiv.org/abs/2203.00526)
 * [ACEGEN: Reinforcement learning of generative chemical agents for drug discovery](https://arxiv.org/abs/2405.04657)
+
+## Others
+[Github - AMIDD](https://github.com/Accio/AMIDD)

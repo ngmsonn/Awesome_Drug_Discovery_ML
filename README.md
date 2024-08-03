@@ -19,6 +19,7 @@
 * [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/abs/2304.00970)
 * [QComp: A QSAR-Based Data Completion Framework for Drug Discovery](https://arxiv.org/abs/2405.11703)
 * [Improving QSAR Modeling for Predictive Toxicology using Publicly Aggregated Semantic Graph Data and Graph Neural Networks](https://www.biorxiv.org/content/10.1101/2021.08.08.455550v1.full)
+* [Neural network and deep-learning algorithms used in QSAR studies: merits and drawbacks](https://www.sciencedirect.com/science/article/abs/pii/S1359644617304762)
 
 !! Dự kiến: Sắp xếp theo từng năm.
 

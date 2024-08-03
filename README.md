@@ -19,6 +19,7 @@
 * [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/abs/2304.00970)
 
 ### Libraries
+* [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)
 
 ## Others
 * [Github - AMIDD](https://github.com/Accio/AMIDD)

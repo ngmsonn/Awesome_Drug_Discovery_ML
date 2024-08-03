@@ -15,6 +15,7 @@
 
 ## QSAR/QSPR
 ### Papers
+* [Multi-task Neural Networks for QSAR Predictions](https://arxiv.org/abs/1406.1231)
 
 
 ## Others

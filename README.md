@@ -17,6 +17,7 @@
 ### Papers
 * [Multi-task Neural Networks for QSAR Predictions](https://arxiv.org/abs/1406.1231)
 * [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/abs/2304.00970)
+* [QComp: A QSAR-Based Data Completion Framework for Drug Discovery](https://arxiv.org/abs/2405.11703)
 
 ### Libraries
 * [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)

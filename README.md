@@ -23,8 +23,9 @@
 
 !! Dự kiến: Sắp xếp theo từng năm.
 
-### Libraries
+### Github
 * [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)
+* [Hierarchical-QSAR-Modeling](https://github.com/XinhaoLi74/Hierarchical-QSAR-Modeling)
 
 ## Others
 * [Github - AMIDD](https://github.com/Accio/AMIDD)

@@ -16,6 +16,7 @@
 ## QSAR/QSPR
 ### Papers
 * [Multi-task Neural Networks for QSAR Predictions](https://arxiv.org/abs/1406.1231)
+* [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/abs/2304.00970)
 
 ### Libraries
 

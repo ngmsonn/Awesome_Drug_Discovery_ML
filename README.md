@@ -18,6 +18,9 @@
 * [Multi-task Neural Networks for QSAR Predictions](https://arxiv.org/abs/1406.1231)
 * [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/abs/2304.00970)
 * [QComp: A QSAR-Based Data Completion Framework for Drug Discovery](https://arxiv.org/abs/2405.11703)
+* [Improving QSAR Modeling for Predictive Toxicology using Publicly Aggregated Semantic Graph Data and Graph Neural Networks](https://www.biorxiv.org/content/10.1101/2021.08.08.455550v1.full)
+
+!! Dự kiến: Sắp xếp theo từng năm.
 
 ### Libraries
 * [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)

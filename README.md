@@ -17,6 +17,7 @@
 ### Papers
 * [Multi-task Neural Networks for QSAR Predictions](https://arxiv.org/abs/1406.1231)
 
+### Libraries
 
 ## Others
 * [Github - AMIDD](https://github.com/Accio/AMIDD)

@@ -1,5 +1,9 @@
 # Awesome Machine Learning for Drug Discovery
 
+## General
+### Papers
+* [Machine learning in preclinical drug discovery](https://www.nature.com/articles/s41589-024-01679-1)
+
 ## Interaction Prediction
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)

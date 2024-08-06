@@ -8,6 +8,7 @@
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)
 * [Drug-target interaction prediction by integrating heterogeneous information with mutual attention network](https://arxiv.org/abs/2404.03516)
+* [A Bayesian machine learning approach for drug target identification using diverse data types](https://www.nature.com/articles/s41467-019-12928-6?fromPaywallRec=true)
 ### Videos
 * [Drug and Target Predictions via Omics Data Integration](https://www.youtube.com/watch?v=eSKoTjsXIfQ&t=0s)
 

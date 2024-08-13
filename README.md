@@ -33,7 +33,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Neural network and deep-learning algorithms used in QSAR studies: merits and drawbacks](https://www.sciencedirect.com/science/article/abs/pii/S1359644617304762)
 * [Uni-QSAR: an Auto-ML Tool for Molecular Property Prediction](https://arxiv.org/abs/2304.12239)
 * [Exploring QSAR models for activity-cliff prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00708-w)
-* []()
+* [Analyzing Learned Molecular Representations for Property Prediction]()
 
 !! Dự kiến: Sắp xếp theo từng năm.
 

@@ -3,7 +3,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ## General
 ### Papers
 * [Machine learning in preclinical drug discovery](https://www.nature.com/articles/s41589-024-01679-1)
-* []()
+* [Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery]()
 
 ## Interaction Prediction
 ### Papers

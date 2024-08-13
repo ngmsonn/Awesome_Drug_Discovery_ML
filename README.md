@@ -12,6 +12,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Drug-Drug Interaction Predictions via Knowledge Graph and Text Embedding: Instrument Validation Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8277366/)
 * [Knowledge Graph Convolutional Network with Heuristic Search for Drug Repositioning](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00737?goto=supporting-info)
 * [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://www.ijcai.org/proceedings/2020/380)
+* []()
 ### Videos
 * [Drug and Target Predictions via Omics Data Integration](https://www.youtube.com/watch?v=eSKoTjsXIfQ&t=0s)
 

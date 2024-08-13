@@ -35,7 +35,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Uni-QSAR: an Auto-ML Tool for Molecular Property Prediction](https://arxiv.org/abs/2304.12239)
 * [Exploring QSAR models for activity-cliff prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00708-w)
 * [Analyzing Learned Molecular Representations for Property Prediction](https://arxiv.org/abs/1904.01561)
-
+* [Predicting Drug-Induced Liver Injury Using Convolutional Neural Network and Molecular Fingerprint-Embedded Features](https://pubs.acs.org/doi/10.1021/acsomega.0c03866)
 !! Dự kiến: Sắp xếp theo từng năm.
 
 ### Github

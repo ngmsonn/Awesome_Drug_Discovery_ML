@@ -10,6 +10,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Drug-target interaction prediction by integrating heterogeneous information with mutual attention network](https://arxiv.org/abs/2404.03516)
 * [A Bayesian machine learning approach for drug target identification using diverse data types](https://www.nature.com/articles/s41467-019-12928-6?fromPaywallRec=true)
 * [Drug-Drug Interaction Predictions via Knowledge Graph and Text Embedding: Instrument Validation Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8277366/)
+* [Knowledge Graph Convolutional Network with Heuristic Search for Drug Repositioning]
 ### Videos
 * [Drug and Target Predictions via Omics Data Integration](https://www.youtube.com/watch?v=eSKoTjsXIfQ&t=0s)
 

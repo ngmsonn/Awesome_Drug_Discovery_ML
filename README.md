@@ -25,6 +25,8 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Multi-Objective Latent Space Optimization of Generative Molecular Design Models](https://arxiv.org/abs/2203.00526)
 * [ACEGEN: Reinforcement learning of generative chemical agents for drug discovery](https://arxiv.org/abs/2405.04657)
 * [Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors](https://arxiv.org/abs/2408.07155)
+* [A pharmacophore-guided deep learning approach for bioactive molecular generation](https://www.nature.com/articles/s41467-023-41454-9)
+
 
 ## QSAR/QSPR
 ### Papers

@@ -8,7 +8,8 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ## Molecular Representations
 ### Papers
 * [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](https://arxiv.org/abs/2408.04520v1)
-
+### Githubs
+* [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
 ## Interaction Prediction
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)

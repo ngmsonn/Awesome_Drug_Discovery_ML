@@ -6,6 +6,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)
 
 ## Molecular Representations
+### Papers
 * [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](https://arxiv.org/abs/2408.04520v1)
 
 ## Interaction Prediction

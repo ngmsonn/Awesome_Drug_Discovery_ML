@@ -10,6 +10,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](https://arxiv.org/abs/2408.04520v1)
 ### Githubs
 * [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
+
 ## Interaction Prediction
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)
@@ -19,7 +20,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Knowledge Graph Convolutional Network with Heuristic Search for Drug Repositioning](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00737?goto=supporting-info)
 * [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://www.ijcai.org/proceedings/2020/380)
 * [Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability](https://arxiv.org/abs/2302.08261)
-
+* [Drug target prediction through deep learning functional representation of gene signatures](https://www.nature.com/articles/s41467-024-46089-y)
 
 ### Videos
 * [Drug and Target Predictions via Omics Data Integration](https://www.youtube.com/watch?v=eSKoTjsXIfQ&t=0s)

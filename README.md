@@ -63,3 +63,4 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ## Drug Side Effect
 ### Papers
 * [Drug Side Effect Prediction with Deep Learning Molecular Embedding in a Graph-of-Graphs Domain](https://www.mdpi.com/2227-7390/10/23/4550)
+* [Predicting Side Effect of Drug Molecules using Recurrent Neural Networks](https://arxiv.org/pdf/2305.10473)

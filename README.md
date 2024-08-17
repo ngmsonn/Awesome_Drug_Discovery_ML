@@ -49,6 +49,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 
 !! Dự kiến: Sắp xếp theo từng năm.
 
+
 ### Github
 * [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)
 * [Hierarchical-QSAR-Modeling](https://github.com/XinhaoLi74/Hierarchical-QSAR-Modeling)
@@ -58,3 +59,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Github - DeepMol](https://github.com/BioSystemsUM/DeepMol)
 * [Github - MCBĐ](https://github.com/Accio/MCBDD/tree/main)
 * [Github - Computational Drug Discovery](https://github.com/mehdimerbah/CompDrugDiscovery/tree/main)
+
+## Drug Side Effect
+### Papers
+* [Drug Side Effect Prediction with Deep Learning Molecular Embedding in a Graph-of-Graphs Domain](https://www.mdpi.com/2227-7390/10/23/4550)

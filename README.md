@@ -12,7 +12,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Bioactivity descriptors for uncharacterized chemical compounds](https://www.nature.com/articles/s41467-021-24150-4?fromPaywallRec=false)
 ### Githubs
 * [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
-
+* [Essay list about Molecular Generation or Drug Discovery](https://github.com/zpeng1989/Essay_For_Molecular_Generation)
 ## Interaction Prediction
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)

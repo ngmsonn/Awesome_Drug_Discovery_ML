@@ -46,7 +46,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Analyzing Learned Molecular Representations for Property Prediction](https://arxiv.org/abs/1904.01561)
 * [Predicting Drug-Induced Liver Injury Using Convolutional Neural Network and Molecular Fingerprint-Embedded Features](https://pubs.acs.org/doi/10.1021/acsomega.0c03866)
 * [Transformers for molecular property prediction: Lessons learned from the past five years](https://arxiv.org/abs/2404.03969)
-
+* [Topological regression as an interpretable and efficient tool for quantitative structure-activity relationship modeling](https://www.nature.com/articles/s41467-024-49372-0?fromPaywallRec=false)
 !! Dự kiến: Sắp xếp theo từng năm.
 
 

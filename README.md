@@ -68,3 +68,8 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 
 ### Github
 * [Graph network to evaluate drug efficacy](https://github.com/ghostintheshellarise/Network-Pharmacology)
+
+
+## Chemical Pre-trained Models
+### Github
+* [A Systematic Survey of Chemical Pre-trained Models [IJCAI 2023]](https://github.com/junxia97/awesome-pretrain-on-molecules)

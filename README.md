@@ -9,6 +9,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ## Molecular Representations
 ### Papers
 * [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](https://arxiv.org/abs/2408.04520v1)
+* [Bioactivity descriptors for uncharacterized chemical compounds](https://www.nature.com/articles/s41467-021-24150-4?fromPaywallRec=false)
 ### Githubs
 * [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
 
@@ -49,7 +50,6 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Transformers for molecular property prediction: Lessons learned from the past five years](https://arxiv.org/abs/2404.03969)
 * [Topological regression as an interpretable and efficient tool for quantitative structure-activity relationship modeling](https://www.nature.com/articles/s41467-024-49372-0?fromPaywallRec=false)
 !! Dự kiến: Sắp xếp theo từng năm.
-
 
 ### Github
 * [QSARtuna - QSAR using Optimization for Hyperparameter Tuning](https://github.com/MolecularAI/QSARtuna)

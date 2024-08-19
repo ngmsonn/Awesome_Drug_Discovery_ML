@@ -14,6 +14,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ### Githubs
 * [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
 * [Essay list about Molecular Generation or Drug Discovery](https://github.com/zpeng1989/Essay_For_Molecular_Generation)
+* [minimol](https://github.com/graphcore-research/minimol)
 ## Interaction Prediction
 ### Papers
 * [A deep graph model for the signed interaction prediction in biological network](https://arxiv.org/abs/2407.07357)

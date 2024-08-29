@@ -12,6 +12,7 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 * [Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs](https://arxiv.org/abs/2408.04520v1)
 * [Bioactivity descriptors for uncharacterized chemical compounds](https://www.nature.com/articles/s41467-021-24150-4?fromPaywallRec=false)
 * [MiniMol : A Parameter-Efficient Foundation Model for Molecular Learning](https://arxiv.org/abs/2404.14986)
+* [Application of the mol2vec Technology to Large-size Data Visualization and Analysis](https://sci-hub.se/https://doi.org/10.1002/minf.201900170)
 ### Githubs
 * [SIMG: Chemical Representation and Interaction Discovery with Stereoelectronics-Infused Molecular Graphs](https://github.com/gomesgroup/simg)
 * [Essay list about Molecular Generation or Drug Discovery](https://github.com/zpeng1989/Essay_For_Molecular_Generation)

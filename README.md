@@ -83,3 +83,6 @@ A curated list of awesome lists on Machine Learning for Drug Discovery
 ## Others
 ### Thesis
 * [Cheminformatics in Natural Product-Based Drug Discovery](file:///home/sonn/Downloads/Chen-Dissertation.pdf)
+
+### Github
+* [scikit-mol](https://github.com/EBjerrum/scikit-mol)
